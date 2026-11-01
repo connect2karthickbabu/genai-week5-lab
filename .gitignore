@@ -1,0 +1,21 @@
+# Python
+.env
+__pycache__/
+*.pyc
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.week1-lab-venv/
+week1-lab-venv/
+
+# IDE
+.vscode/
+
+# Generated files
+*.log
